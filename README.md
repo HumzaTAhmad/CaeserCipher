@@ -11,6 +11,7 @@ would have been outputted for thier encrypted message depending on the key input
 inputted for these possible Decrypted messages.
 
 NOTE: The numbers on the left of possible Decrypted messages has nothing to do with their key
+
 NOTE: DO NOT ADD ANY SPECIAL CHARACTERS
 
 VIDEO LINK:
